@@ -1,0 +1,13 @@
+models/Product.class
+com/group1/productsjibc/ProductsJIBC.class
+views/NewProduct.class
+views/NewProduct$1.class
+views/NewProduct$2.class
+views/MainPage$1.class
+views/ViewPage$1.class
+views/MainPage.class
+utils/DatabaseUtils.class
+views/NewProduct$4.class
+views/NewProduct$5.class
+views/ViewPage.class
+views/NewProduct$3.class
